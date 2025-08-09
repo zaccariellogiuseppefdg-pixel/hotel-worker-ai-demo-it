@@ -1,1 +1,3 @@
-# hotel-worker-ai-demo-it
+# Hotel Worker Ai — Demo base (ITA)
+
+Vedi app.py.
